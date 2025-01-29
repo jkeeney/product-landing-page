@@ -1,0 +1,21 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	border: 1px solid black;
+}
+
+html {
+	background-color: #8fd4e3;
+}
+
+#header {
+	display: flex;
+	position: fixed;
+	height: 75px;
+	width: 100vw;
+	background-color: white;
+}
+
+#header-img {
+	height: 100%;
+}
